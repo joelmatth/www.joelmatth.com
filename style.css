@@ -1,0 +1,53 @@
+h1, p, body, html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: arial, sans-serif;
+    font-size: 63%;
+    font-weight: normal;
+    color: #2E2E2E;
+}
+
+#header {
+    background: #F0F0F0;
+    text-align: center;
+    border-bottom: 1px solid #E9E9E9;
+    margin-bottom: 20px;
+}
+
+#header a {
+    color: #18191B;
+    text-decoration: none;
+}
+
+h1 {
+    /* display: inline; */
+    font-family: Helvetica, sans-serif;
+    color: #18191B;
+    font-size: 5em;
+    font-weight: normal;
+    padding: 10px;
+    /* zoom: 1; */
+    /*       *display:inline; */
+}
+
+#content {
+    position: relative;
+    margin: 0 auto;
+    width: 700px;
+    font-size: 1.8em;
+}
+
+#content p {
+    padding: 10px;
+}
+
+a {
+    color: #5793D4;
+}
+
+.tab {
+    margin-left: 40px;
+}

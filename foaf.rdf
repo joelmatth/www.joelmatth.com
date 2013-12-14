@@ -1,20 +1,20 @@
 ﻿<rdf:RDF
-	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
-	<foaf:PersonalProfileDocument rdf:about="">
-		<foaf:maker rdf:resource="#me"/>
-		<foaf:primaryTopic rdf:resource="#me"/>
-	</foaf:PersonalProfileDocument>
-	
-	<foaf:Person rdf:ID="me">
-		<foaf:name>Joel Matthews</foaf:name>
-		<foaf:givenname>Joel</foaf:givenname>
-		<foaf:family_name>Matthews</foaf:family_name>
-		<foaf:gender>male</foaf:gender>
-		<foaf:mbox rdf:resource="mailto:joelmatth@gmail.com" />
-		<foaf:homepage rdf:resource="http://www.joelmatth.com" />
-		/*<foaf:depiction rdf:resource="http://www.joelmatth.com/me.jpg" />*/
-	</foaf:Person>
+<foaf:PersonalProfileDocument rdf:about="">
+<foaf:maker rdf:resource="#me"/>
+<foaf:primaryTopic rdf:resource="#me"/>
+</foaf:PersonalProfileDocument>
+
+<foaf:Person rdf:ID="me">
+<foaf:name>Joel Matthews</foaf:name>
+<foaf:givenname>Joel</foaf:givenname>
+<foaf:family_name>Matthews</foaf:family_name>
+<foaf:gender>male</foaf:gender>
+<foaf:mbox rdf:resource="mailto:joelmatth@gmail.com" />
+<foaf:homepage rdf:resource="http://www.joelmatth.com" />
+/*<foaf:depiction rdf:resource="http://www.joelmatth.com/me.jpg" />*/
+</foaf:Person>
 
 </rdf:RDF>

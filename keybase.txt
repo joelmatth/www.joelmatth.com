@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/joelmatth
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://joelmatth.com
+  * I am joelmatth (https://keybase.io/joelmatth) on keybase.
+  * I have a public key with fingerprint C6C9 4DC5 E01A 3F14 FA0D  7841 5A5E BDEC 9F7C 2DDE
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.5.1"
+        },
+        "key": {
+            "fingerprint": "c6c94dc5e01a3f14fa0d78415a5ebdec9f7c2dde",
+            "host": "keybase.io",
+            "key_id": "5A5EBDEC9F7C2DDE",
+            "uid": "041b07b1bc76cf2245e0e9afd82c4700",
+            "username": "joelmatth"
+        },
+        "merkle_root": {
+            "ctime": 1411483395,
+            "hash": "eca5efcd87475342ba3834ded75887ae23814955ec2e81dc2e0404e8201b8f1537da17a7eb3d3d7dfa3e95d9f3e22fd77773838bb67d46008dd2e9e1b8eb660f",
+            "seqno": 56701
+        },
+        "service": {
+            "hostname": "joelmatth.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1411483412,
+    "expire_in": 157680000,
+    "prev": "0a5f7752eb72483dd92c2dbe09e3236d6c08c757f0d8f2073e81e2c49aefe336",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owFdUn1QFGUcPs74EAORIAzQoeVzGsD9fncxGj4OTGjCRjGl4tzd911YOW6PuwNF
+vaJ0JJ0US0jRaUQCxFCRcAhyyCH5Ko3JBm3EwBAJ88wxrDH63mVoyt4/dnb39zzP
+7/f8nnef3zyD0SMvv/vOkW0JYx4XvhcNa56sDN6KiSosx5K2YpJFQVan/mYVihGW
+hBWhclFwoERFjbCqECVudETMYeKxMmR3KKpVQ+GJTCKBueJ1uE6WFWsBstvsiq6F
+SazE01BiEE4IlEzQsoBDwNEEIzBIhEjiZSCRECJNslB1OB/qis1qmhWo/WVSmYw0
+U0Y6nwnSSZMpQ6uVzhZwmhBxIBKiBFhJJklaa4V4QYYcKdEAx3WgA9nnLG1UkaVY
+cDoL9YGLkb3Igsx2VZ11LTkVHUPQBEFzFMUz2kiCo1BjIUmbVpYgB2jAUDQpChRH
+0RBBwHAcEBBJcQTNMwySSMQRUHviNE4jjsQJkZMJhgJQIIAAkEhBCgIoCxTiGcjL
+FCJJGQLtaIKcKLIA0iyOcxCSiEcaGYksi8uaBwcqsapYEsMCnHDpn/YyRUL62Pra
+/u8uUVKLNZLNrjpVSbVopUKn05akm3aW23ToJiSeMs+pmEXFCrXU/hur3uThhdAE
+GY+hzTbFjsyKjmAAy+Ha0fugMj0KgZEBYEgkAlIjQMiTWrYiwnlEkRQLWQnnJMAA
+GYecTOKA0paFtJR4AcmIoth/bdLanEKBJulQCqyCs9SOMNcuY/gjBg+jwcvTqN9b
+g+/8gH8uM3h+4Z8xLX7t7l+78lKqqlbWu31P+4+kfQRMH/cfaLxi+O3wNRQ+/8v1
++Z9cbv19U8BACGZvIj5LuHHy6fQDEa5RefdbdV8Fb1ZqTSlNizpU9eQJzufB2UVN
+o10jr+z1DsoYlaMjbfdMLZ6TlgV3mfMdeZOP3WqOf/1Z1/hPJW0vhSx+cW3f2uO1
+Y/dr/whYH89w234OGExI2HNpwB3DL2+oKY3zRWphj/9+UD0cFdSWlbXi9nu+T6wI
+9fm8clV0bGNY83aTfL/F0ZyZ5fPBdKUxKAsWSdcvp998O8prfNq7p+nxnVTDqu4v
+bMKVqzmd52M+7Vp3rbrmzlOeqWPKQOSPhcHj2d5R3RG7rZ3fWOKj3hzJz8NTT8vJ
+bfVVmc2J3waKuXval4SGMTU7br3f2u+aGno1b+XO6HNTZf7Tx2tDIpOGF1+6ODQT
+Gjcxk3x7h8e5eXJgwg8b8LPrTpUczGqY2Bv5aEzxiW73kd5cr86ljeUFdX05sRfZ
+Q2+scb0zWt7nTmm88UuO2fHuvvrWYrNf34ZD99Iaqh7EHgzK/q4/pfHlqoW+uyaP
+vSD4BYcbYwaMC5ThLTGGZV/HDSVXjPEz4Jnco3y9xT3pXdGcX9HdNlgpT9WlVf+1
+2uXBDrbfPHx0x9LlE35hH1pe27+6cUsQeb3XcIZKm/LMbAg8dmbZ1eztdzuWXEjo
+6U0Oe07sTv0b
+=j7cc
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joelmatth
+
+==================================================================
